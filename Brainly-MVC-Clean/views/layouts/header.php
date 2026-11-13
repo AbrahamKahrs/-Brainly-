@@ -13,7 +13,7 @@
       
       <!-- Logo -->
       <a href="index.php" class="flex items-center gap-2">
-        <span class="text-2xl font-black tracking-tight text-blue-600">Brainly</span>
+        <span class="text-2xl font-black tracking-tight text-blue-600">"Brainly"</span>
       </a>
 
       <!-- Buscador Global -->
