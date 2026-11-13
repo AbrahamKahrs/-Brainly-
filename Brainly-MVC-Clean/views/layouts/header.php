@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Brainly - Plataforma de Estudio Colaborativo</title>
+  <title>"Brainly" - Plataforma de Estudio Colaborativo</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 text-gray-800 font-sans min-h-screen flex flex-col">
@@ -13,7 +13,7 @@
       
       <!-- Logo -->
       <a href="index.php" class="flex items-center gap-2">
-        <span class="text-2xl font-black tracking-tight text-blue-600">Brainly</span>
+        <span class="text-2xl font-black tracking-tight text-blue-600">"Brainly"</span>
       </a>
 
       <!-- Buscador Global -->
